@@ -1,3 +1,5 @@
 Clean file... ;)
 
+Feature 2 modifie Feature 3 ! AOUCH
+Feature 4 modifie Feature 3 ! AOUCH
 Feature 3 rewrite modifie feature 3 !
